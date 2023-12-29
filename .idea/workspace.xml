@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ef34623-4185-4b91-9095-9fee54ce9236" name="Changes" comment="Initial commit with database setup and model classes" />
+    <list default="true" id="9ef34623-4185-4b91-9095-9fee54ce9236" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/supermarket/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/supermarket/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/supermarket/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/supermarket/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/supermarket/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/supermarket/service/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/supermarket/view/SupermarketAppConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/supermarket/view/SupermarketAppConsole.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,17 +30,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SupermarketManagement" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SupermarketManagement" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -166,9 +163,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.SupermarketManagement [buildDependents]" />
         <item itemvalue="Gradle.SupermarketManagement [build]" />
         <item itemvalue="Gradle.SupermarketManagement [clean]" />
+        <item itemvalue="Gradle.SupermarketManagement [buildDependents]" />
         <item itemvalue="Application.SupermarketAppConsole" />
       </list>
     </recent_temporary>
@@ -197,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703782127656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1703829113912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703829113912</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +218,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit with database setup and model classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit with database setup and model classes" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
